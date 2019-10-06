@@ -27,7 +27,7 @@ h2 {
 
 h3 {
 	font-family: raleway;
-	color: #OD2C40; 
+	color: #0D2C40; 
 	letter-spacing: 1px;
 	font-weight: 600;
 	font-size: 20px;
@@ -66,21 +66,22 @@ img {
 
 footer {
 	text-transform: uppercase; 
-	padding: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
 	background-color: #0D2C40;
 	color: white;
-	font size: 14px;
+	font-size: 14px;
 	letter-spacing: .08em;
 	font-weight: 500;
 }
 
 .copyright {
- 	display: "Raleway";
+ 	font-family: "Raleway";
  	float: left;
 }
 
 .message {
-	display: "Raleway";
+	font-family: "Raleway";
 	float: right;
 
 }
